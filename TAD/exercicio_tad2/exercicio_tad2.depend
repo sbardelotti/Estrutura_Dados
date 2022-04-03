@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1648010531 source:c:\users\mimi\desktop\arquivos\computarias\c\projetos\aprendendo\exercicios c\exercicios arquivos\exercicio_tad2\figurasgeometricas.c
+	<stdlib.h>
+	"FigurasGeometricas.h"
+
+1648009836 c:\users\mimi\desktop\arquivos\computarias\c\projetos\aprendendo\exercicios c\exercicios arquivos\exercicio_tad2\figurasgeometricas.h
+
+1648011024 source:c:\users\mimi\desktop\arquivos\computarias\c\projetos\aprendendo\exercicios c\exercicios arquivos\exercicio_tad2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FigurasGeometricas.h"
+
