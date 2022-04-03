@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1648927813 source:c:\users\mimi\desktop\arquivos\computarias\estrutura de dados\exercicios\lista\lista_encadeada1\lista_encadeada1\listaencadeada.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaEncadeada.h"
+
+1648927813 c:\users\mimi\desktop\arquivos\computarias\estrutura de dados\exercicios\lista\lista_encadeada1\lista_encadeada1\listaencadeada.h
+
+1648927576 source:c:\users\mimi\desktop\arquivos\computarias\estrutura de dados\exercicios\lista\lista_encadeada1\lista_encadeada1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaEncadeada.h"
+
