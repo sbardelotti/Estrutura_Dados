@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1649575169 source:c:\users\mimi\desktop\arquivos\computarias\estrutura de dados\exercicios\lista\lista_circular_duplamente_encadeada1\listacircularduplamenteencadeada.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaCircularDuplamenteEncadeada.h"
+
+1649573954 c:\users\mimi\desktop\arquivos\computarias\estrutura de dados\exercicios\lista\lista_circular_duplamente_encadeada1\listacircularduplamenteencadeada.h
+
+1649575408 source:c:\users\mimi\desktop\arquivos\computarias\estrutura de dados\exercicios\lista\lista_circular_duplamente_encadeada1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaCircularDuplamenteEncadeada.h"
+
